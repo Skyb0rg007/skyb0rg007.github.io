@@ -5,25 +5,28 @@
   "version": "0.1.0",
   "author": "Skye Soss <skyler.soss@gmail.com>",
   "dependencies": {
-    "gatsby": "^2.13.45",
-    "gatsby-image": "^2.2.7",
-    "gatsby-plugin-manifest": "^2.2.4",
-    "gatsby-plugin-offline": "^2.2.4",
-    "gatsby-plugin-react-helmet": "^3.1.2",
-    "gatsby-plugin-sharp": "^4.25.1",
-    "gatsby-source-filesystem": "^2.1.7",
-    "gatsby-transformer-sharp": "^2.2.5",
-    "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.1",
-    "styled-components": "^5.0.0-beta.8"
+    "gatsby": "^5.16.1",
+    "gatsby-plugin-image": "^3.16.0",
+    "gatsby-plugin-manifest": "^5.16.0",
+    "gatsby-plugin-offline": "^6.16.0",
+    "gatsby-plugin-sharp": "^5.16.0",
+    "gatsby-source-filesystem": "^5.16.0",
+    "gatsby-transformer-sharp": "^5.16.0",
+    "prop-types": "^15.8.1",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-helmet-async": "^3.0.0",
+    "styled-components": "^6.4.3"
   },
   "devDependencies": {
-    "eslint": "^6.1.0",
-    "eslint-config-prettier": "^6.0.0",
-    "gh-pages": "^2.0.1",
-    "prettier": "^1.18.2"
+    "@eslint/js": "^9.39.5",
+    "eslint": "^9.39.5",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "gh-pages": "^6.3.0",
+    "globals": "^17.7.0",
+    "prettier": "^3.9.5"
   },
   "keywords": [
     "gatsby"
